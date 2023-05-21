@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Xinya
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React and node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 xli340/xli340 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
