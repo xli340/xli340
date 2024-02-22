@@ -2,7 +2,7 @@
 <h3 align="center">I am a software developer specializing in the web development, with experience in building responsive, robust and scalable web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xli340&label=Profile%20views&color=0e75b6&style=flat" alt="xli340" /> </p>
-<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)" />
 
 - 🔭 I’m currently looking for a **Job**
 
