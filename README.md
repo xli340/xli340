@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **xli340@aucklanduni.ac.nz**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I am a cooking master**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
